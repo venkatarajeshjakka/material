@@ -86,6 +86,8 @@ Shooting star is bearish patter , prior trend should be bullish.
 #### Range :
 Difference between the open and close divided by the average of open and low.
 
+### Tips:
+
 > Avoid trading during an extremely small ( 0.75% ) or long candle ( above 10% range )
 
 > Prefer hammer pattern then hanging man for trade.
