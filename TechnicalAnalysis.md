@@ -65,7 +65,8 @@ _Bearish_
 If Paper umbrella appears at the top end of an uptrend rally
 * Shooting star
 
-
+It is inverted paper umbrella, long upper shadow.
+Shooting star is bearish patter , prior trend should be bullish.
 
 ### Multiple candlestick pattern 
 
@@ -88,3 +89,5 @@ Difference between the open and close divided by the average of open and low.
 > Avoid trading during an extremely small ( 0.75% ) or long candle ( above 10% range )
 
 > Prefer hammer pattern then hanging man for trade.
+
+> Shooting star is fairly reliable pattern.
