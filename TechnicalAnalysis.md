@@ -45,18 +45,27 @@ Indicative of a market where indecision and uncertainity prevails.It just convey
 * Paper Umbrella
 
 Long lower shadow with a small upper body.
+
+To qualify paper umbrella , length of lower shadow should be twice the lenght of real body.
+
+longer the lower shadow the more bullish the pattern
  
 * Hammer
 
 _Bullish_ 
 
-If papre umbrella appears at the bottom end of a downward rally.
+If papper umbrella appears at the bottom end of a downward rally.
+
+Hammer formation suggests a long trade
+
 * Hanging man
 
 _Bearish_ 
 
 If Paper umbrella appears at the top end of an uptrend rally
 * Shooting star
+
+
 
 ### Multiple candlestick pattern 
 
@@ -78,4 +87,4 @@ Difference between the open and close divided by the average of open and low.
 
 > Avoid trading during an extremely small ( 0.75% ) or long candle ( above 10% range )
 
-
+> Prefer hammer pattern then hanging man for trade.
