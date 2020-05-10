@@ -11,3 +11,40 @@ Pre requisties for the pattern:
 * The prior trend should be down trend.
 * The first day of the pattern should be red candle 
 * The candle on the 2 nd day of the pattern should be a green candle.
+
+## Bearish Engulfing 
+
+* prior trend to bullish
+* Day 1 green candle
+* Day 2 red candle
+
+## The piercing pattern
+
+Similar to _Bullish engulfing_  with small variation.
+
+P2 green candle partially engulfs P1's red candle, however, the engulfing should be at least 50% but less than 100%.
+
+__Example :__ if P1's range is 12, P2 range should be at least 6 or higher but less then 12.
+
+## The Dark Cloud Cover
+
+Smilar to _Bearish engulfing_ with minor variations.
+
+The red candle on P2 engulfs abut 50 to 100 % of P1 green candle.
+
+## The Harami Pattern
+
+The first candle is usually long and second candle has a small body. The second candle is generally opposite in color to the first candle.
+
+* A trend reversal is possible
+
+   * ___Bullish harami___ 
+   * ___Bearsih harami___
+
+## Key Notes
+
+> When ever a doji follows a recognizabke candle stick pattern the opportunity created is bigger. 
+
+> Prefer Bearish engulfing vs the dark cloud cover.
+
+> Prefer Bullish engulfing vs the piercing patter.
