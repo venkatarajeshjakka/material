@@ -41,6 +41,25 @@ The first candle is usually long and second candle has a small body. The second 
    * ___Bullish harami___ 
    * ___Bearsih harami___
 
+## Bullish Harami 
+
+Bullish pattern appearing at the botton end of the chart.
+
+* Bullish pattern evolves over a two day period, similar to the engulfing patter
+
+* the lowest low of the pattern will be the stop loss for the trade.
+
+## Bearish Harami 
+
+Appears at the top of an uptrend which gives the trader an opportunity to initiate a short trade.
+
+* highest high between P1 and P2 acts as the stop loss for the trade.
+
+## Morning star
+
+bullish candle stick pattern  which evolves over a three day period by combining 3 consecutive candle sticks,
+
+* It appears at the bottom end of a downtrend
 ## Key Notes
 
 > When ever a doji follows a recognizabke candle stick pattern the opportunity created is bigger. 
