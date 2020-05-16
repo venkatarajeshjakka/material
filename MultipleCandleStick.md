@@ -59,7 +59,19 @@ Appears at the top of an uptrend which gives the trader an opportunity to initia
 
 bullish candle stick pattern  which evolves over a three day period by combining 3 consecutive candle sticks,
 
-* It appears at the bottom end of a downtrend
+* It appears at the bottom end of a downtrend.
+* P1 large red candle , it indicates bearishness.
+* P2 (gap down ) either doji / spinning top.
+* P3 (gap up ) Green candle which manages to close above P1 red candle
+
+In the absence of P2 doji / spinning top it would __bullish engulfing patter__
+
+Lowest low in the pattern acts as stop loss
+
+## Evening star
+
+Bearish equivalent of the morning star , it appears at the top end of an uptrend.
+
 ## Key Notes
 
 > When ever a doji follows a recognizabke candle stick pattern the opportunity created is bigger. 
