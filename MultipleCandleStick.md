@@ -72,6 +72,12 @@ Lowest low in the pattern acts as stop loss
 
 Bearish equivalent of the morning star , it appears at the top end of an uptrend.
 
+* P1 long green candle
+* P2 gap up forming doji / spinning top.
+* P3 gap down and red candle.
+
+Shorting opportunities.
+
 ## Key Notes
 
 > When ever a doji follows a recognizabke candle stick pattern the opportunity created is bigger. 
@@ -79,3 +85,8 @@ Bearish equivalent of the morning star , it appears at the top end of an uptrend
 > Prefer Bearish engulfing vs the dark cloud cover.
 
 > Prefer Bullish engulfing vs the piercing patter.
+
+> 3 day pattern are better than 2 day pattern than single candlestick patter.
+
+> Stop loss for a long trade is the lowest low of the pattern.
+> Stop loss for a short trade is the highest high of the pattern.
