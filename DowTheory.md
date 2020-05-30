@@ -28,6 +28,10 @@ The area between the upper and lowe level is called the width of the range.
 * Trade with in the range 
 * Trade at 'Range breakout'.
 
+_Why stock trade in range?_
+
+* No meaningful fundamental triggers.
+* In anticipation of big announcements. 
 
 
 ### Flag formation
